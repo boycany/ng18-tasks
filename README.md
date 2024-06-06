@@ -1,6 +1,10 @@
-# Essentials
+# Task Manager
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.2.
+Easy to create and complete tasks for different users.
+
+## Tech Stack
+
+Angular 18.0.0
 
 ## Development server
 
